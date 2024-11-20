@@ -10,6 +10,8 @@ import java.util.stream.Collectors;
 /**
  * PageRanker class provides functionality to rank files based on the frequency
  * of their names' occurrences in the text data.
+ * This is for github
+ * 
  */
 @Service
 public class PageRanker {
